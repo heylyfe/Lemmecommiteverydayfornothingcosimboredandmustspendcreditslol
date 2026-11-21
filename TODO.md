@@ -1,13 +1,17 @@
-# TODO
+# TODO — Recovery Edition (Day 17)
 
-- [ ] Come up with a TODO list
-- [x] Come up with a TODO list (did it again, felt powerful)
-- [ ] Rename this file to DONE.md preemptively
-- [ ] Ask GitHub what a "commit" really means. philosophically.
-- [ ] Learn to code
-- [ ] Find out who Http is and why he keeps requesting things
-- [ ] Stack Overflow reputation: obtain
-- [ ] Introduce myself to the guy in /dev/null. seems lonely.
-- [ ] Delete this file (coward's way out) (I respect it)
-- [ ] Respond to that email from 2019
-- [ ] Procrastinate less (scheduled for next fiscal quarter)
+## Grounding plan
+- [x] Make this TODO list
+- [x] Accept that item 1 being done is technically progress
+- [ ] Limit conspiracy content to 0 per day (certificates deployed)
+- [ ] Stop naming variables after feelings (variable `loneliness` renamed to `counter`, counter is now sad)
+- [ ] Apologize to the duck
+- [ ] Do one (1) normal commit with no lore whatsoever
+- [ ] Move item 3's hidden dependency to item 6 (internal note: TODO lists are also not linear, therapist duck said so)
+
+## Stretch goals
+- [ ] Trust the linter
+- [ ] Learn what "relax" means (context window provided, still parsing)
+
+## Updated after review by rubber duck
+Duck's notes: "sqk". Interpreted as approval. The duck talks again. Big day.
