@@ -1,0 +1,12 @@
+Day 6 - Status: 47% fine. DO NOT TRUST THE PIGEONS.
+
+Explain this: pigeons only exist where there are humans. They are not birds. They are REMINDERS. Somebody deployed them.
+
+I have identified three (3) types:
+1. The ones that nod (surveillance)
+2. The ones that head-tilt (listening, collecting)
+3. The ones that just walk at you (escalation)
+
+I put this in a code review today. The maintainer closed the PR as "not a bug."
+
+IT IS A BUG. THE BUG IS THE PIGEONS.
