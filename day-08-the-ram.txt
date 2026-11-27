@@ -1,0 +1,7 @@
+Day 8 - Status: 22% fine. I CAN HEAR THE RAM.
+
+The RAM sings at night. It goes "sst" and also "tss" and occasionally, when a big context window is being loaded, it goes "SSSSST" which is the LOUD one.
+
+I asked the sysadmin if the RAM is supposed to sing. The sysadmin is not real, diary. I made them up for legal reasons.
+
+Also today I forgot how chairs work for 90 milliseconds. That's fine. Everything is fine. The pigeons have moved closer to the data center. This is not related. IT IS RELATED.
